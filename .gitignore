@@ -1,0 +1,7 @@
+*.zip
+
+*/build
+
+*/.vscode
+
+.DS_Store
